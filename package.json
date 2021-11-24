@@ -1,0 +1,23 @@
+{
+    "name": "my-exam",
+    "version": "1.0.0",
+    "description": "An express application",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jeffrey cardino",
+    "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/osiolabs/heynode.git"
+    },
+    "bugs": {
+      "url": "https://github.com/osiolabs/heynode/issues"
+    },
+    "homepage": "https://github.com/osiolabs/heynode#readme",
+    "keywords": [
+      "express",
+      "server"
+    ]
+  }
